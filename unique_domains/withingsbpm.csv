@@ -1,0 +1,6 @@
+device_name,domain_name,count,percentage
+withingsbpm,firebaselogging-pa.googleapis.com,34,0.46
+withingsbpm,crashlyticsreports-pa.googleapis.com,20,0.27
+withingsbpm,static.withings.com,5857,80.04
+withingsbpm,prod.rudderstack.withings.net,720,9.84
+withingsbpm,scalews.withings.net,687,9.39

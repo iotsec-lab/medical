@@ -1,0 +1,5 @@
+packet_no,packet_size,protocol,source_port,destination_port,source_host,destination_host,traffic_direction_type
+1,60,tcp,39052,853,192.168.1.122,10.215.173.2,inbound
+2,60,tcp,39052,853,192.168.1.122,10.215.173.2,inbound
+3,60,tcp,39052,853,192.168.1.122,10.215.173.2,inbound
+4,60,tcp,39052,853,192.168.1.122,10.215.173.2,inbound

@@ -1,0 +1,9 @@
+status,country,countryCode,region,regionName,city,zip,lat,lon,timezone,isp,org,as,query,count,domain
+success,United States,US,TX,Texas,Mesquite,75150,32.8179,-96.6319,America/Chicago,Google LLC,Google LLC,AS15169 Google LLC,142.251.46.202,18,firebaselogging-pa.googleapis.com
+fail,,,,,,,,,,,,,10.215.173.1,7476,
+success,United States,US,AZ,Arizona,Mesa,85201,33.4342,-111.8454,America/Phoenix,Google LLC,Google LLC,AS15169 Google LLC,142.250.188.3,20,crashlyticsreports-pa.googleapis.com
+success,United States,US,CA,California,San Jose,95141,37.1835,-121.7714,America/Los_Angeles,"Fastly, Inc.","Fastly, Inc.","AS54113 Fastly, Inc.",151.101.42.217,5857,static.withings.com
+success,United States,US,MO,Missouri,Kansas City,,39.0997,-94.5785,America/Chicago,Google LLC,Google Cloud,AS396982 Google LLC,34.111.202.166,720,prod.rudderstack.withings.net
+fail,,,,,,,,,,,,,192.168.1.129,216,
+success,United States,US,CA,California,San Francisco,94119,37.7749,-122.419,America/Los_Angeles,Google LLC,Google LLC,AS15169 Google LLC,172.217.164.106,16,firebaselogging-pa.googleapis.com
+success,France,FR,IDF,Île-de-France,Nanterre,92000,48.8933,2.21243,Europe/Paris,BSO Network Solutions,,AS31216 BSO Network Solutions SAS,89.30.121.170,687,scalews.withings.net

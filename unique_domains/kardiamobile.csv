@@ -1,0 +1,7 @@
+device_name,domain_name,count,percentage
+kardiamobile,us-telekardia-production.alivecor.com,17272,97.22
+kardiamobile,alivecor-nn-us-production.s3.amazonaws.com,85,0.48
+kardiamobile,api.mixpanel.com,236,1.33
+kardiamobile,crashlyticsreports-pa.googleapis.com,33,0.19
+kardiamobile,client-analytics.braintreegateway.com,50,0.28
+kardiamobile,api.braintreegateway.com,90,0.51

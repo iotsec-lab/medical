@@ -1,0 +1,6 @@
+crashlyticsreports-pa.googleapis.com
+firebaselogging-pa.googleapis.com
+p4.withings.com
+prod.rudderstack.withings.net
+scalews.withings.net
+static.withings.com

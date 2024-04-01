@@ -1,0 +1,19 @@
+status,country,countryCode,region,regionName,city,zip,lat,lon,timezone,isp,org,as,query,count,domain
+success,United States,US,CA,California,San Francisco,94107,37.7803,-122.39,America/Los_Angeles,"Cloudflare, Inc.","Cloudflare, Inc.","AS13335 Cloudflare, Inc.",104.16.66.50,5658,
+fail,,,,,,,,,,,,,10.215.173.1,14537,
+success,United States,US,CA,California,San Francisco,94119,37.7749,-122.419,America/Los_Angeles,Google LLC,Google LLC,AS15169 Google LLC,172.217.12.106,60,scone-pa.googleapis.com
+success,United States,US,IL,Illinois,Chicago,60607,41.8719,-87.6589,America/Chicago,Google LLC,Google LLC,AS15169 Google LLC,142.251.32.42,179,scone-pa.googleapis.com
+success,United States,US,TX,Texas,Mesquite,75150,32.8179,-96.6319,America/Chicago,Google LLC,Google LLC,AS15169 Google LLC,142.251.46.170,33,scone-pa.googleapis.com
+success,United States,US,MO,Missouri,Kansas City,,39.0997,-94.5785,America/Chicago,Google LLC,Google Cloud,AS396982 Google LLC,34.102.155.183,919,fsc.fitbit.com
+success,United States,US,CA,California,San Francisco,94107,37.7803,-122.39,America/Los_Angeles,"Cloudflare, Inc.","Cloudflare, Inc.","AS13335 Cloudflare, Inc.",104.16.65.50,5512,
+success,United States,US,IL,Illinois,Elmhurst,60126,41.8957,-87.9435,America/Chicago,Google LLC,Google LLC,AS15169 Google LLC,142.250.191.74,226,scone-pa.googleapis.com
+success,United States,US,CA,California,San Francisco,94119,37.7749,-122.419,America/Los_Angeles,Google LLC,Google LLC,AS15169 Google LLC,142.251.214.138,166,scone-pa.googleapis.com
+success,United States,US,TX,Texas,Mesquite,75150,32.8179,-96.6319,America/Chicago,Google LLC,Google LLC,AS15169 Google LLC,142.251.46.234,173,scone-pa.googleapis.com
+success,United States,US,FL,Florida,Titusville,32796,28.6252,-80.8461,America/New_York,Google LLC,Google LLC,AS15169 Google LLC,142.250.189.170,259,scone-pa.googleapis.com
+success,United States,US,FL,Florida,Titusville,32796,28.6252,-80.8461,America/New_York,Google LLC,Google LLC,AS15169 Google LLC,142.250.189.234,255,scone-pa.googleapis.com
+success,United States,US,TX,Texas,Mesquite,75150,32.8179,-96.6319,America/Chicago,Google LLC,Google LLC,AS15169 Google LLC,142.251.46.202,176,scone-pa.googleapis.com
+success,United States,US,CA,California,San Francisco,94119,37.7749,-122.419,America/Los_Angeles,Google LLC,Google LLC,AS15169 Google LLC,172.217.164.106,32,scone-pa.googleapis.com
+success,United States,US,IL,Illinois,Elmhurst,60126,41.8957,-87.9435,America/Chicago,Google LLC,Google LLC,AS15169 Google LLC,142.250.191.42,282,scone-pa.googleapis.com
+success,United States,US,CO,Colorado,Parker,80134,39.489,-104.8298,America/Denver,Google LLC,Google LLC,AS15169 Google LLC,142.250.72.202,32,scone-pa.googleapis.com
+success,United States,US,FL,Florida,Titusville,32796,28.6252,-80.8461,America/New_York,Google LLC,Google LLC,AS15169 Google LLC,142.250.189.202,221,scone-pa.googleapis.com
+fail,,,,,,,,,,,,,10.215.173.2,354,

@@ -1,0 +1,16 @@
+status,country,countryCode,region,regionName,city,zip,lat,lon,timezone,isp,org,as,query
+fail,,,,,,,,,,,,,10.215.173.1
+fail,,,,,,,,,,,,,10.215.173.2
+success,United States,US,CA,California,San Francisco,94119,37.7749,-122.419,America/Los_Angeles,Naver Business Platform Asia Pacific Pte. Ltd.,NBP NCP,AS135354 NAVER BUSINESS PLATFORM ASIA PACIFIC PTE. LTD.,110.234.25.122
+success,South Korea,KR,11,Seoul,Seoul,,37.5665,126.978,Asia/Seoul,Amazon Technologies Inc.,AWS EC2 (ap-northeast-2),"AS16509 Amazon.com, Inc.",13.125.20.54
+success,South Korea,KR,11,Seoul,Seoul,,37.5665,126.978,Asia/Seoul,Amazon Technologies Inc.,AWS EC2 (ap-northeast-2),"AS16509 Amazon.com, Inc.",15.164.3.45
+success,South Korea,KR,11,Seoul,Seoul,,37.5665,126.978,Asia/Seoul,Amazon Technologies Inc.,AWS EC2 (ap-northeast-2),"AS16509 Amazon.com, Inc.",15.165.125.158
+success,United States,US,WA,Washington,Seattle,98109,47.6222,-122.337,America/Los_Angeles,"Amazon.com, Inc.",AWS Global Accelerator (GLOBAL),"AS16509 Amazon.com, Inc.",15.197.175.58
+success,United States,US,WA,Washington,Seattle,98109,47.6222,-122.337,America/Los_Angeles,"Amazon.com, Inc.",AWS Global Accelerator (GLOBAL),"AS16509 Amazon.com, Inc.",3.33.160.75
+success,South Korea,KR,11,Seoul,Seoul,,37.5665,126.978,Asia/Seoul,"Amazon.com, Inc.",AWS EC2 (ap-northeast-2),"AS16509 Amazon.com, Inc.",3.36.173.142
+success,South Korea,KR,11,Seoul,Seoul,,37.5665,126.978,Asia/Seoul,"Amazon.com, Inc.",AWS EC2 (ap-northeast-2),"AS16509 Amazon.com, Inc.",3.37.220.195
+success,South Korea,KR,11,Seoul,Seoul,,37.5665,126.978,Asia/Seoul,"Amazon.com, Inc.",AWS EC2 (ap-northeast-2),"AS16509 Amazon.com, Inc.",3.39.102.44
+success,South Korea,KR,11,Seoul,Seoul,,37.5665,126.978,Asia/Seoul,"Amazon.com, Inc.",AWS EC2 (ap-northeast-2),"AS16509 Amazon.com, Inc.",3.39.93.66
+success,United States,US,CA,California,Los Angeles,90060,34.0544,-118.2441,America/Los_Angeles,"Facebook, Inc.",Meta Platforms Ireland Limited,"AS32934 Facebook, Inc.",31.13.70.1
+success,South Korea,KR,11,Seoul,Seoul,,37.5665,126.978,Asia/Seoul,"Amazon.com, Inc.",AWS EC2 (ap-northeast-2),"AS16509 Amazon.com, Inc.",43.201.128.52
+success,South Korea,KR,11,Seoul,Seoul,,37.5665,126.978,Asia/Seoul,Amazon Technologies Inc.,AWS EC2 (ap-northeast-2),"AS16509 Amazon.com, Inc.",52.79.107.99

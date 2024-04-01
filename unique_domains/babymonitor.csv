@@ -1,0 +1,11 @@
+device_name,domain_name,count,percentage
+babymonitor,android.bugly.qq.com,51,0.39
+babymonitor,firebaselogging-pa.googleapis.com,169,1.28
+babymonitor,amdcopen.m.taobao.com,336,2.54
+babymonitor,utoken.umeng.com,15,0.11
+babymonitor,a1.tuyaus.com,4870,36.88
+babymonitor,m1.tuyaus.com,1305,9.88
+babymonitor,ulogs.umeng.com,135,1.02
+babymonitor,v2.sense-u.com,6181,46.81
+babymonitor,umengjmacs.m.taobao.com,126,0.95
+babymonitor,offmsg.umeng.com,16,0.12

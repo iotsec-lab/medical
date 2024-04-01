@@ -1,0 +1,5 @@
+android-api.fitbit.com
+android-cdn-api.fitbit.com
+digital-assets.fitbit.com
+fsc.fitbit.com
+scone-pa.googleapis.com

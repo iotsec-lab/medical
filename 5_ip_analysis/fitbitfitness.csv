@@ -1,0 +1,19 @@
+status,country,countryCode,region,regionName,city,zip,lat,lon,timezone,isp,org,as,query
+fail,,,,,,,,,,,,,10.215.173.1
+fail,,,,,,,,,,,,,10.215.173.2
+success,United States,US,NY,New York,New York,10123,40.7128,-74.006,America/New_York,"Cloudflare, Inc.","Cloudflare, Inc","AS13335 Cloudflare, Inc.",104.16.65.50
+success,United States,US,NY,New York,New York,10123,40.7128,-74.006,America/New_York,"Cloudflare, Inc.","Cloudflare, Inc","AS13335 Cloudflare, Inc.",104.16.66.50
+success,United States,US,CA,California,San Francisco,94119,37.7749,-122.419,America/Los_Angeles,Google LLC,Google LLC,AS15169 Google LLC,142.250.189.170
+success,United States,US,CA,California,San Francisco,94119,37.7749,-122.419,America/Los_Angeles,Google LLC,Google LLC,AS15169 Google LLC,142.250.189.202
+success,United States,US,CA,California,Mountain View,94043,37.4215,-122.084,America/Los_Angeles,Google LLC,Google LLC,AS15169 Google LLC,142.250.189.234
+success,United States,US,IL,Illinois,Streamwood,60107,42.0221,-88.1705,America/Chicago,Google LLC,Google LLC,AS15169 Google LLC,142.250.191.42
+success,United States,US,IL,Illinois,Streamwood,60107,42.0221,-88.1705,America/Chicago,Google LLC,Google LLC,AS15169 Google LLC,142.250.191.74
+success,United States,US,CA,California,San Francisco,94119,37.7749,-122.419,America/Los_Angeles,Google LLC,Google LLC,AS15169 Google LLC,142.250.72.202
+success,United States,US,WA,Washington,SeaTac,98188,47.4467,-122.2684,America/Los_Angeles,Google LLC,Google LLC,AS15169 Google LLC,142.251.214.138
+success,United States,US,CA,California,San Francisco,94119,37.7749,-122.419,America/Los_Angeles,Google LLC,Google LLC,AS15169 Google LLC,142.251.32.42
+success,United States,US,TX,Texas,Manchaca,78652,30.1285,-97.8376,America/Chicago,Google LLC,Google LLC,AS15169 Google LLC,142.251.46.170
+success,United States,US,TX,Texas,Manchaca,78652,30.1285,-97.8376,America/Chicago,Google LLC,Google LLC,AS15169 Google LLC,142.251.46.202
+success,United States,US,TX,Texas,Manchaca,78652,30.1285,-97.8376,America/Chicago,Google LLC,Google LLC,AS15169 Google LLC,142.251.46.234
+success,United States,US,TN,Tennessee,Mount Juliet,37122,36.1868,-86.5067,America/Chicago,Google LLC,Google LLC,AS15169 Google LLC,172.217.12.106
+success,United States,US,CA,California,San Francisco,94119,37.7749,-122.419,America/Los_Angeles,Google LLC,Google LLC,AS15169 Google LLC,172.217.164.106
+success,United States,US,MO,Missouri,Kansas City,,39.0997,-94.5785,America/Chicago,Google LLC,Google Cloud,AS396982 Google LLC,34.102.155.183

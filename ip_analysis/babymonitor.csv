@@ -1,0 +1,46 @@
+status,country,countryCode,region,regionName,city,zip,lat,lon,timezone,isp,org,as,query,count,domain
+fail,,,,,,,,,,,,,10.215.173.1,14389,
+fail,,,,,,,,,,,,,10.215.173.2,610,
+success,China,CN,ZJ,Zhejiang,Hangzhou,,30.2741,120.155,Asia/Shanghai,China Internet Network Information Center,"Zhejiang Taobao Network Co., Ltd","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",106.11.61.135,40,
+success,China,CN,ZJ,Zhejiang,Hangzhou,,30.2741,120.155,Asia/Shanghai,China Internet Network Information Center,"Zhejiang Taobao Network Co., Ltd","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",106.11.61.137,46,
+success,Hong Kong,HK,HCW,Central and Western District,Hong Kong,96521,22.2842,114.1759,Asia/Hong_Kong,Tencent Cloud Computing (Beijing) Co,,"AS132203 Tencent Building, Kejizhongyi Avenue",129.226.103.12,16,android.bugly.qq.com
+success,Hong Kong,HK,HCW,Central and Western District,Hong Kong,96521,22.2842,114.1759,Asia/Hong_Kong,Tencent Cloud Computing (Beijing) Co,,"AS132203 Tencent Building, Kejizhongyi Avenue",129.226.103.217,35,android.bugly.qq.com
+success,United States,US,FL,Florida,Titusville,32796,28.6252,-80.8461,America/New_York,Google LLC,Google LLC,AS15169 Google LLC,142.250.189.202,15,firebaselogging-pa.googleapis.com
+success,United States,US,FL,Florida,Titusville,32796,28.6252,-80.8461,America/New_York,Google LLC,Google LLC,AS15169 Google LLC,142.250.189.234,13,firebaselogging-pa.googleapis.com
+success,United States,US,IL,Illinois,Elmhurst,60126,41.8957,-87.9435,America/Chicago,Google LLC,Google LLC,AS15169 Google LLC,142.250.191.42,24,firebaselogging-pa.googleapis.com
+success,United States,US,CA,California,San Francisco,94119,37.7749,-122.419,America/Los_Angeles,Google LLC,Google LLC,AS15169 Google LLC,142.251.214.138,38,firebaselogging-pa.googleapis.com
+success,United States,US,IL,Illinois,Chicago,60607,41.8719,-87.6589,America/Chicago,Google LLC,Google LLC,AS15169 Google LLC,142.251.32.42,24,firebaselogging-pa.googleapis.com
+success,United States,US,TX,Texas,Mesquite,75150,32.8179,-96.6319,America/Chicago,Google LLC,Google LLC,AS15169 Google LLC,142.251.46.202,15,firebaselogging-pa.googleapis.com
+success,United States,US,CA,California,San Francisco,94119,37.7749,-122.419,America/Los_Angeles,Google LLC,Google LLC,AS15169 Google LLC,172.217.12.106,27,firebaselogging-pa.googleapis.com
+success,United States,US,CA,California,San Francisco,94119,37.7749,-122.419,America/Los_Angeles,Google LLC,Google LLC,AS15169 Google LLC,172.217.164.106,13,firebaselogging-pa.googleapis.com
+fail,,,,,,,,,,,,,192.168.1.108,78,
+fail,,,,,,,,,,,,,192.168.1.122,171,
+success,China,CN,ZJ,Zhejiang,Hangzhou,,30.1898,120.192,Asia/Shanghai,"Hangzhou Alibaba Advertising Co., Ltd.",Addresses CNNIC,"AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",203.119.205.153,158,amdcopen.m.taobao.com
+success,China,CN,ZJ,Zhejiang,Hangzhou,,30.1898,120.192,Asia/Shanghai,"Hangzhou Alibaba Advertising Co., Ltd.",Addresses CNNIC,"AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",203.119.205.154,25,amdcopen.m.taobao.com
+success,China,CN,ZJ,Zhejiang,Hangzhou,,30.1898,120.192,Asia/Shanghai,"Hangzhou Alibaba Advertising Co., Ltd.",Addresses CNNIC,"AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",203.119.214.17,127,amdcopen.m.taobao.com
+success,China,CN,ZJ,Zhejiang,Hangzhou,,30.1898,120.192,Asia/Shanghai,"Hangzhou Alibaba Advertising Co., Ltd.",Addresses CNNIC,"AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",203.119.217.116,26,amdcopen.m.taobao.com
+success,China,CN,JS,Jiangsu,Suzhou,,31.299,120.585,Asia/Shanghai,China Mobile communications corporation,China Mobile,AS56046 China Mobile communications corporation,223.109.148.139,10,utoken.umeng.com
+success,China,CN,JS,Jiangsu,Suzhou,,31.299,120.585,Asia/Shanghai,China Mobile communications corporation,China Mobile,AS56046 China Mobile communications corporation,223.109.148.171,5,utoken.umeng.com
+success,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",35.167.213.203,15,
+success,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",44.230.82.63,2225,a1.tuyaus.com
+success,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",44.233.135.247,75,a1.tuyaus.com
+success,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",44.238.208.26,443,m1.tuyaus.com
+success,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",44.239.154.208,304,m1.tuyaus.com
+success,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",44.241.48.186,558,m1.tuyaus.com
+success,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba Cloud LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",47.246.109.108,104,ulogs.umeng.com
+success,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba Cloud LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",47.246.109.109,31,ulogs.umeng.com
+success,United States,US,CA,California,Minkler,,36.7783,-119.418,America/Los_Angeles,Alibaba.com LLC,ALICLOUD-US,"AS45102 Alibaba (US) Technology Co., Ltd.",47.254.95.248,6181,v2.sense-u.com
+success,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",52.27.85.79,18,
+success,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",54.200.34.119,649,a1.tuyaus.com
+success,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",54.69.214.41,1921,a1.tuyaus.com
+success,China,CN,ZJ,Zhejiang,Hangzhou,,30.1898,120.192,Asia/Shanghai,Hangzhou Alibaba Advertising Co,"Hangzhou Alibaba Advertising Co., Ltd.","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",59.82.112.156,39,umengjmacs.m.taobao.com
+success,China,CN,ZJ,Zhejiang,Hangzhou,,30.1898,120.192,Asia/Shanghai,Hangzhou Alibaba Advertising Co,"Hangzhou Alibaba Advertising Co., Ltd.","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",59.82.112.196,134,
+success,China,CN,ZJ,Zhejiang,Hangzhou,,30.1898,120.192,Asia/Shanghai,Hangzhou Alibaba Advertising Co,"Hangzhou Alibaba Advertising Co., Ltd.","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",59.82.112.84,25,umengjmacs.m.taobao.com
+success,China,CN,ZJ,Zhejiang,Hangzhou,,30.1898,120.192,Asia/Shanghai,Hangzhou Alibaba Advertising Co,"Hangzhou Alibaba Advertising Co., Ltd.","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",59.82.113.130,14,umengjmacs.m.taobao.com
+success,China,CN,ZJ,Zhejiang,Hangzhou,,30.1898,120.192,Asia/Shanghai,Hangzhou Alibaba Advertising Co,"Hangzhou Alibaba Advertising Co., Ltd.","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",59.82.113.146,2,
+success,China,CN,ZJ,Zhejiang,Hangzhou,,30.1898,120.192,Asia/Shanghai,Hangzhou Alibaba Advertising Co,"Hangzhou Alibaba Advertising Co., Ltd.","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",59.82.113.237,123,
+success,China,CN,ZJ,Zhejiang,Hangzhou,,30.1898,120.192,Asia/Shanghai,Hangzhou Alibaba Advertising Co,"Hangzhou Alibaba Advertising Co., Ltd.","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",59.82.113.90,446,
+success,China,CN,ZJ,Zhejiang,Hangzhou,,30.1898,120.192,Asia/Shanghai,Hangzhou Alibaba Advertising Co,"Hangzhou Alibaba Advertising Co., Ltd.","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",59.82.23.195,25,umengjmacs.m.taobao.com
+success,China,CN,ZJ,Zhejiang,Hangzhou,,30.1898,120.192,Asia/Shanghai,Hangzhou Alibaba Advertising Co,"Hangzhou Alibaba Advertising Co., Ltd.","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",59.82.23.214,7,umengjmacs.m.taobao.com
+success,China,CN,ZJ,Zhejiang,Hangzhou,,30.1898,120.192,Asia/Shanghai,Hangzhou Alibaba Advertising Co,"Hangzhou Alibaba Advertising Co., Ltd.","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",59.82.23.69,16,umengjmacs.m.taobao.com
+success,China,CN,ZJ,Zhejiang,Hangzhou,,30.1898,120.192,Asia/Shanghai,Hangzhou Alibaba Advertising Co,"Hangzhou Alibaba Advertising Co., Ltd.","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",59.82.29.249,16,offmsg.umeng.com
