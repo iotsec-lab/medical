@@ -1,4 +1,0 @@
-frame_no,layer_1,is_encrypted_1,layer_2,is_encrypted_2,layer_3,is_encrypted_3,layer_4,is_encrypted_4,layer_5,is_encrypted_5
-1,raw,False,ip,False,tcp,False,,,,
-2,raw,False,ip,False,tcp,False,,,,
-3,raw,False,ip,False,udp,False,dns,False,,

@@ -1,4 +1,0 @@
-status,country,countryCode,region,regionName,city,zip,lat,lon,timezone,isp,org,as,query
-fail,,,,,,,,,,,,,10.215.173.1
-fail,,,,,,,,,,,,,10.215.173.2
-fail,,,,,,,,,,,,,192.168.1.1

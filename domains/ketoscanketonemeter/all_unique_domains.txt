@@ -1,4 +1,0 @@
-api.channel.io
-graph.facebook.com
-kminiapp.sentechkorea.com
-ws.channel.io

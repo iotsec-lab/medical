@@ -1,9 +1,0 @@
-alivecor-nn-us-production.s3.amazonaws.com
-api.braintreegateway.com
-api.mixpanel.com
-app.alivecor.com
-client-analytics.braintreegateway.com
-crashlyticsreports-pa.googleapis.com
-decide.mixpanel.com
-us-kardia-production.alivecor.com
-us-telekardia-production.alivecor.com
